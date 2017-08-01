@@ -1,7 +1,7 @@
 libvirtctl
 ========
 
-libvirtctl released under GPL v3.
+libvirtctl released under GPL v2.
 
 What is libvirtctl
 --------------------------------------
